@@ -21,7 +21,7 @@ def chat_with_llm(prompt, model="gpt-4o", max_tokens=150, temperature=0.7):
         prompt: The user prompt
         model: Model to use (default: gpt-4o)
         max_tokens: Maximum tokens in response
-        temperature: Temperature setting
+        temperature: Temperature setting.
         
     Returns:
         The LLM response string or None on error

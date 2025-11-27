@@ -1,0 +1,14 @@
+Windows:
+mouse right click: Control + mouse right click
+Windows all apps: Mac launch pad
+Windows quick accsss to folders: Can drag drop into doc
+NOtifications is on top right
+control center is your wifi/Bluetooth settings
+windows search: spolit search - command + space
+To releave file location from finder: Command + r
+To releave file path: View: Show path bar
+Cut paste: Option + command +V
+alt + tab : Comand + tab
+Quite apps (close): Command + q
+ctrl, alt,del : apple menu, force quite option. In doc.. hold option key to force quite
+---------
